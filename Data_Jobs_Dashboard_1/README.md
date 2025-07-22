@@ -29,13 +29,51 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
+![Data Jobs Dashboard Page 1](/images/data_job_dashboard_1_page_1.jpg)  
 
 This is our mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give us a quick understanding of what's happening in the job market at a glance.
 
+### Overall Market Snapshot
+- Total open positions: ~479 K
+
+- Median pay across all roles: $113.3 K/year ($47.62/hour) (we use median here to account for outliers in some Science data job with almost 1mil USD salary)
+
+- “Salary Star” rating: ★★★☆☆ (mid‑range competitiveness) based on my subjective judgement
+
+
+### Job Trend
+
+- Seasonal Hiring Trend (2024)
+Peak hiring in spring/early summer (~50 K monthly openings)
+
+- Slowdown in Q4 (dipping to ~35 K)
+
+- Uptick again toward year‑end
+
+Insight for a job seeker:
+
+Hit the market in Q2–Q3 (April–September):
+
+- Companies post the most data‑role openings then—your résumé will get in front of the largest number of recruiters.
+
+- Apply, follow up, and schedule interviews during this “peak season.”
+
+Use Q4 (October–December) strategically:
+
+- With fewer openings, focus on upskilling (online courses, certifications) and expanding your network (conferences, meetups, LinkedIn).
+
+- Refine your portfolio and interview prep so you’re ready for the next hiring burst in Q1.
+
+Plan for Q1 (January–March):
+
+- Many teams have fresh budgets and back‑to‑work momentum—early‑year applications can land you roles before the spring peak.
+
+By aligning your search rhythm with hiring cycles—aggressive outreach in Q2–Q3, skill‑building in Q4, then another push in Q1—you’ll maximize both visibility and your readiness for top data‑job opportunities..
+
+
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
+![Data Jobs Dashboard Page 2](/images/data_job_dashboard_1_page_2.jpg)  
 
 This is the deep-dive page. From the main dashboard, we can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
